@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "413523983104",
+    "project_id": "saxeli",
+    "storage_bucket": "saxeli.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413523983104:android:47b52c38eccfea094791e5",
+        "android_client_info": {
+          "package_name": "com.example.arviciradavarqva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413523983104-pp8h58dt6q3o86oo33nj480os0i18p9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFnDSxYwnmx5DIcyNVQJfs02tdxUpG4h4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413523983104-pp8h58dt6q3o86oo33nj480os0i18p9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
